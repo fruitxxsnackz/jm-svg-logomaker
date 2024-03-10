@@ -6,4 +6,4 @@ SVG Logo Maker created using dependencies Node.js, Inquirer, and Jest. Purpose o
 ![alt text](./examples/Screenshot%20SVG.png)
 
 ## Walk-Through Video
-<iframe src="https://drive.google.com/file/d/1yoeXcFkhLva954p_jnukKgEUiBjMzdWj/preview" width="640" height="480"></iframe>
+Link: https://drive.google.com/file/d/1yoeXcFkhLva954p_jnukKgEUiBjMzdWj/preview
