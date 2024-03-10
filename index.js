@@ -52,7 +52,7 @@ class makemylogo {
          logo = new square(colorshape); 
         break;
       }
-
+     
       const logosh = `<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
       ${logo.render()}
      <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="${colortext}" font-size="40">${text}</text> </svg>`;
@@ -61,6 +61,7 @@ class makemylogo {
     });
   }
 }
+// Create new class and make the logo
 export default makemylogo;
 const logos = new makemylogo();
 logos.genlogo();
